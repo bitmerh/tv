@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:0 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+#EXTINF:0 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:0 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
+#EXTINF:0 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
+#EXTINF:0 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a4f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+#EXTINF:0 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+#EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
+#EXTINF:0 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
+http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
+#EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+#EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL",i24 NEWS HE עברית
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 COMEDY
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 NOFESH
@@ -17,30 +41,6 @@ https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_10801920_
 https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_10801920_p_0.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="|IL|🇮🇱 ISRAEL",ISRAEL PLUS 9 канал
 https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
-http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="|IL|🇮🇱 ISRAEL",NOW 14
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="|IL|🇮🇱 ISRAEL",i24 NEWS HE עברית
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="|IL|🇮🇱 ISRAEL",HINUCHIT 23
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="|IL|🇮🇱 ISRAEL",MAKO 24
@@ -55,4 +55,3 @@ https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/r2VceK3.jpg" group-title="|IL|🇮🇱 ISRAEL",האח הגדול  
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
-

@@ -1,72 +1,108 @@
+להלן אותו ‎M3U‎ בסדר המדויק, עם שמות הערוצים בעברית. לא נגעתי בשאר השדות (לוגו, ‎tvg-id‎ או כתובת הזרם):
+
+```m3u
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",Kan 11 (4K)
+#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",כאן 11 ‎(4K)
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",Kan 11
+#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",Kan 11 (CC)
+#EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="Israel 🇮🇱",כאן 11 ‎(כתוביות)
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 
-#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",Keshet 12 (DVR 5 Mbps)
+#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",ערוץ 12 ‎(DVR 5 Mbps)
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
-#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",Keshet 12 (DVR 3 Mbps)
+#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",ערוץ 12 ‎(DVR 3 Mbps)
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/3/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a1
-#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",Keshet 12 (Live)
+#EXTINF:-1 tvg-id="Channel12.il" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="Israel 🇮🇱",ערוץ 12 ‎(שידור חי)
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
 
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",Reshet 13
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",Reshet 13 (Alt)
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",ערוץ 13 ‎(חלופי)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
-#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",Reshet 13 (CC)
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="Israel 🇮🇱",ערוץ 13 ‎(כתוביות)
 http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="Israel 🇮🇱",Now 14
+#EXTINF:-1 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="Israel 🇮🇱",ערוץ 14
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="Israel 🇮🇱",Now 14 (Backup)
+#EXTINF:-1 tvg-id="Channel14.il" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png" group-title="Israel 🇮🇱",ערוץ 14 ‎(גיבוי)
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Israel 🇮🇱",i24 News עברית
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="Israel 🇮🇱",i24 ‎חדשות עברית
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="Israel 🇮🇱",Reshet 13 COMEDY
-https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="Israel 🇮🇱",Reshet 13 NOFESH
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="Israel 🇮🇱",Reshet 13 REALITY
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="Israel 🇮🇱",Keshet 12 ERETZ COUNTRY
-https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="Israel 🇮🇱",Keshet 12 SAVRI MARNAN
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="Israel 🇮🇱",Keshet 12 HATUNA WEDDING
-https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="Israel 🇮🇱",Keshet 12 NINJA ISR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1YR2hWPq/stare-0ec07318c4.png" group-title="Israel 🇮🇱",Keshet 12 KOHAV STAR
-https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_10801920_p_0.m3u8
-
-#EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="Israel 🇮🇱",Israel Plus (9 канал)
-https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
-
-#EXTINF:-1 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="Israel 🇮🇱",Hinuchit 23
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-
-#EXTINF:-1 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="Israel 🇮🇱",Channel 24
+#EXTINF:-1 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="Israel 🇮🇱",ערוץ 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 
-#EXTINF:-1 tvg-id="TheKnessetChannel.il" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="Israel 🇮🇱",Knesset 99
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg" group-title="Radio 🇮🇱",גל"צ
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg" group-title="Radio 🇮🇱",גלגל"צ
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png" group-title="Radio 🇮🇱",88 FM
+http://kanliveicy.media.kan.org.il/icy/kan88_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png" group-title="Radio 🇮🇱",אקו 99 FM
+http://99.livecdn.biz/99fm
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png" group-title="Radio 🇮🇱",רדיו 100 FM
+https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png" group-title="Radio 🇮🇱",רדיו 102 FM תל-אביב
+https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png" group-title="Radio 🇮🇱",רדיו 103 FM
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png" group-title="Radio 🇮🇱",רדיו 107.5 FM חיפה
+http://ads11.livecdn.biz/radiohaifa
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png" group-title="Radio 🇮🇱",רדיו נוסטלגיה
+http://194.213.4.197:8000/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png" group-title="Radio 🇮🇱",קול המוסיקה
+http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png" group-title="Radio 🇮🇱",כאן תרבות
+http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png" group-title="Radio 🇮🇱",רשת ב׳
+https://kanbet.media.kan.org.il/hls/live/2024811/2024811/kanbet_mp3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png" group-title="Radio 🇮🇱",רשת ג׳
+http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg" group-title="Israel 🇮🇱",ערוץ 13 קומדיה
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg" group-title="Israel 🇮🇱",ערוץ 13 נופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="Israel 🇮🇱",ערוץ 13 ריאליטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="Israel 🇮🇱",ערוץ 12 — ארץ נהדרת
+https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="Israel 🇮🇱",ערוץ 12 — סברי מרנן
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="Israel 🇮🇱",ערוץ 12 — חתונה ממבט ראשון
+https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="Israel 🇮🇱",ערוץ 12 — נינג׳ה ישראל
+https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1YR2hWPq/stare-0ec07318c4.png" group-title="Israel 🇮🇱",ערוץ 12 — הכוכב הבא
+https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/video_10801920_p_0.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="Israel 🇮🇱",ערוץ 9 (ישראל פלוס)
+https://ythls.armelin.one/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8
+
+#EXTINF:-1 tvg-id="Channel23.il" tvg-logo="https://i.ibb.co/tLYB26T/h2322.png" group-title="Israel 🇮🇱",ערוץ 23 (החינוכית)
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-id="Music24.il" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" group-title="Israel 🇮🇱",ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
+
+#EXTINF:-1 tvg-id="TheKnessetChannel.il" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png" group-title="Israel 🇮🇱",ערוץ הכנסת (99)
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="Israel 🇮🇱",Walla News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png" group-title="Israel 🇮🇱",וואלה חדשות
 https://live.wcdn.co.il/news/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Kabala.il" tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png" group-title="Israel 🇮🇱",Kabbalah 96
+#EXTINF:-1 tvg-id="Kabala.il" tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png" group-title="Israel 🇮🇱",קבלה 96
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hidabrut.il" tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png" group-title="Israel 🇮🇱",Hidabroot 97
+#EXTINF:-1 tvg-id="Hidabrut.il" tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png" group-title="Israel 🇮🇱",הידברות 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BigBrother.il" tvg-logo="https://i.imgur.com/r2VceK3.jpg" group-title="Israel 🇮🇱",האח הגדול (Big Brother Live)
+#EXTINF:-1 tvg-id="BigBrother.il" tvg-logo="https://i.imgur.com/r2VceK3.jpg" group-title="Israel 🇮🇱",האח הגדול — שידור חי
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+```
+
+> כעת שמות כל הערוצים מוצגים בעברית – פשוט שמור/י את הקובץ והטען אותו בנגן ה-IPTV שלך.
